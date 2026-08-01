@@ -10,6 +10,7 @@
 
     <h2>siz bu saytda ozingizga yoqgan tovarni zakaz qilishingiz mumkin</h2>
 
-    <p>siz buyerda ozingizga yoqgan tavorani zakaz qilishingiz yoqmasa qaytarib yuborishingiz </p>
+       <button>kirib korish</button>
+
 </body>
 </html>
