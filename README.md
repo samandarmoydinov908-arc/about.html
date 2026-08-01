@@ -12,5 +12,8 @@
 
        <button>kirib korish</button>
 
+           <p>siz bu saytni ilovasini mobil telfoningizga yuklab olishingiham mumkin</p>
+
+
 </body>
 </html>
